@@ -1,2 +1,3 @@
 # ChallengeQuestion_SortListOfHetrogenousData
 ChallengeQuestion_SortListOfHetrogenousData
+In This We have sorted List which contains Hetrogenous Data
